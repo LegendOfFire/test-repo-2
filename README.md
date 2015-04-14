@@ -6,3 +6,5 @@ second repo on github
 Add some text here.
 
 Make more changes.
+
+Change to SSH connection.
